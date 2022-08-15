@@ -2,33 +2,33 @@
 
 ## What is Srste?
 
-Appsmith is a low code, open-source developer tool to build internal applications quickly.
+Srste is a low code, open-source developer tool to build internal and external applications quickly.
 
-You can drag and drop pre-built widgets to build UI on a grid-style canvas. Appsmith simplifies frontend and backend integration between the UI and the datasource to optimize building applications. Appsmith supports JavaScript inside widgets, queries, and almost any other component to add logic, transform data, and define complex workflows.
+With an easy-to-configure UI builder, you can build your customized UI leveraging the variety of out-of-the-box widgets. Srste simplifies frontend and backend integration between the UI and the datasource to optimize building applications. Srste supports JavaScript inside widgets, queries, and almost any other component to add logic, transform data, and define complex workflows.
 
 {% hint style="info" %}
 Build **CRUD** apps, **Dashboards**, **Admin Panels**, **Dynamic Forms**, and much more **10x faster**.
 {% endhint %}
 
-## How Appsmith Works
+## How Srste Works
 
-* **Connect Datasource**: Integrate with a datasource such as a database or an API. Appsmith has plug-and-play support for many databases and the RESTful API interface to connect with most tools seamlessly.
 * **Build UI**: Use customizable built-in widgets to build an app layout quickly.
+* **Connect Datasource**: Integrate with a datasource such as a database or an API. Srste has plug-and-play support for many databases and the RESTful API interface to connect with most tools seamlessly.
 * **Access Data**: Connect UI to the datasource by writing queries and binding the data to widgets. Control everything with JavaScript.
-* **Collaborate, Deploy, Share**: Appsmith also supports version control with Git to track changes, create rollbacks and collaborate using git branches. Deploy the app and share it with other users.
+* **Collaborate, Deploy, Share**: Srste also supports version control with Git to track changes, create rollbacks and collaborate using git branches. Deploy the app and share it with other users.
 
-You can build anything from simple CRUD apps to complicated multi-step workflows with these simple steps. Appsmith makes it easy to build a UI that talks to any datasource.
+You can build anything from simple CRUD apps to complicated multi-step workflows with these simple steps. Srste makes it easy to build a UI that talks to any datasource.
 
-**Got 2 minutes?** Here's a video overview of Appsmith:
+**Got 2 minutes?** Here's a video overview of Srste:
 
 {% embed url="https://youtu.be/Dxe_NzdGzL4" %}
 
 ## **Get Started**
 
-There are two ways of using Appsmith:
+There are two ways of using Srste:
 
-* [Appsmith Cloud](https://app.appsmith.com/): Try Appsmith in our cloud environment. (Read about our [data security](broken-reference/)).
-* [Self-Host Appsmith](getting-started/setup/): Deploy and manage Appsmith on your local machine or private server instance.
+* [Srste Cloud](https://fun.srste.in): Try Srste in our cloud environment (Link is to a demo instance)
+* [Self-Host Srste](https://github.com/platform-srste/srste-docker): Deploy and manage Appsmith on your local machine or private server instance.
 
 ## First Steps
 
